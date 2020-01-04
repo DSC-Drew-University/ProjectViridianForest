@@ -8,7 +8,7 @@ Notes: any additional notes
 Commit History: document every major change to the code here alongside the date and author
                 - Initial Commmit
                     (David Nesterov-Rappoport '22)                 | Sep 18 2019
-                - Added battle bus animations (
+                - Added battle bus animations
                     (Bobby Ludwick '20)                            | Sep 30 2019
 
 */
