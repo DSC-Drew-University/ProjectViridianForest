@@ -1,0 +1,46 @@
+/*
+Class Name: name                                                   <DSC DREW U/>
+
+Class Description: Brief description of the classes purpose and functionality
+
+Notes: any additional notes
+
+Commit History: document every major change to the code here alongside the date and author
+                - Initial Commmit
+                    (David Nesterov-Rappoport '22)                 | Sep 18 2019
+                - Added battle bus animations (
+                    (Bobby Ludwick '20)                            | Sep 30 2019
+
+*/
+
+...
+
+// IMPORTS ------------------------------------------------------------------ //
+import 'package:flutter/material.dart';
+// -------------------------------------------------------------------------- //
+
+...
+
+// CLASS BODY ----------------------------------------------------------------------------------- //
+ class Name {
+
+ // Data Fields
+
+ // Constructors
+
+ // Functions
+
+ }
+// ---------------------------------------------------------------------------------------------- //
+
+...
+
+// SUPPORTING CLASSES --------------------------------------------------------------------------- //
+   class supportingClass {
+
+   // Description
+
+   /* Same as for a regular class body */
+
+   }
+// ---------------------------------------------------------------------------------------------- //

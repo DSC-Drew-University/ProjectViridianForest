@@ -1,0 +1,23 @@
+// NAMING
+DO name types using UpperCamelCase.
+DO name extensions using UpperCamelCase.
+DO name libraries, packages, directories, and source files using lowercase_with_underscores.
+DO name import prefixes using lowercase_with_underscores.
+DO name other identifiers using lowerCamelCase.
+
+PREFER using lowerCamelCase for constant names.
+
+DON’T use a leading underscore for identifiers that aren’t private.
+
+// IMPORTS
+DO place “dart:” imports before other imports.
+DO place “package:” imports before relative imports.
+DO capitalize acronyms and abbreviations longer than two letters like words.
+DO specify exports in a separate section after all imports.
+DO sort sections alphabetically.
+
+PREFER placing external “package:” imports before other imports.
+
+
+
+
