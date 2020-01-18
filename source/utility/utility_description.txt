@@ -1,0 +1,2 @@
+Utilities is the folder for generic code that doesn't need to be specifically associated with any
+other aspect of the codebase. An example would be something like a sorting algorithm.

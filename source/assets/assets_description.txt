@@ -1,0 +1,5 @@
+Assets is the directory for storing all files needed for building the UI and UX for the application.
+Icons: Small images used for buttons or to otherwise indicate function
+Images: Aesthetically important files, such as backgrounds.
+Sounds: What do you think this is?
+Other: Everything that doesn't fit in the above described categories.

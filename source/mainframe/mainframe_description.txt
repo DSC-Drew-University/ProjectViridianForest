@@ -1,0 +1,12 @@
+Mainframe is effectively the "main" of the application. It's primary responsibility is connecting
+to the server, allowing the user to log in, fetching the modules available to the given user and
+then allowing the user to use them. Functions as a finite state machine that moves between the
+following states: "login" > "main_screen" > "module of choice". Besides that, the mainframe allows
+the user to access their profile and choose which widgets they want to have.
+
+The main directory stores files essential to the main app flow, including the widgets through which
+it is rendered (almost no data is stored in these files however)
+
+The user directory stores files needed to store information about a single user, most importantly
+their profile information, functions, the school they are attached to and the modules available
+to them.

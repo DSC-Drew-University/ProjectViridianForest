@@ -1,0 +1,3 @@
+Module Data is the directory we use to store data on a specific school's widget library, so when the
+app recognizes it has signed into a school for the first time, it will fetch its modules and load
+them for the user to access.

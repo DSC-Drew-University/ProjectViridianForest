@@ -1,0 +1,3 @@
+The server directory stores files needed for the apps communication with Firebase, including
+fetching and sending data needed for the app to function. Since our app is mostly based on cloud
+computing resources, this is effectively the backend of the application.
